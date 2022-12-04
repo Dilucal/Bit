@@ -1082,7 +1082,7 @@ var menu_nya =`${listmenu(sender,prefix,ad,namenya,premnya,usernya,romnya,tangga
 let btn_menu = [
 {buttonId: `${prefix}groupbot`, buttonText: { displayText: ' 𝗚𝗥𝗢𝗨𝗣' }, type: 1 },
 {buttonId: `${prefix}owner`, buttonText: { displayText: ' 𝗢𝗪𝗡𝗘𝗥' }, type: 1 },
-{buttonId: `${prefix}rules`, buttonText: { displayText: ' 𝗥𝗨𝗟𝗘𝗦' }, type: 1 }
+{buttonId: `${prefix}infoowner`, buttonText: { displayText: ' 𝗜𝗡𝗙𝗢' }, type: 1 }
 ]
 var but_menu = {
 text: menu_nya,
