@@ -621,12 +621,12 @@ return`──「 *MENU DONATE* 」──
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
 *Payment Ovo*
-Number: 085789004732
-A/N: LEXXY STORE
+Number: 082283541084
+A/N: Armandi
 
 *Payment Dana*
-Number: 085789004732
-A/N: LEXXY OFFICIAL
+Number: 082283541084
+A/N: Armando
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
 
@@ -637,17 +637,26 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* Lexxy Official
- • *Umur:* 18 tahun
+ • *Nama:* Armando
+ • *Umur:* 20 Tahun
  • *Hoby:* Turu/Game
- • *Askot:* Palembang
+ • *Askot:* Pekanbaru-Riau
  • *Konten:* Creator
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 083834558105
- • *Youtube:* Lexxy Official
- • *Github:* Lexxy24
+
+ • *Whatsapp:* wa.me/6287823406145
+
+ • *Instagram:* instagram.com/armnd.at
+
+ • *GitHub:* github.com/Dilucal
+
+ • *TeleGram* @armnddd
+
+ • *Twitter* https://twitter.com/NuxL13?t=c4vctKsS6DhStYJCVkfqRA&s=09
+
+ • *Facebook* facebook.com/Mando8778
  `
 }
