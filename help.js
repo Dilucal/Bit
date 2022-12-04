@@ -6,7 +6,7 @@ var monoSpace = '```'
 
 exports.listmenu = (sender,prefix,ad,namenya,premnya,usernya,romnya,tanggal,jam,no) => {
 return`
-━━━❲ 𝙂𝙐𝙍𝘽𝙊𝙏-𝙈𝘿 ━━━
+━━━❲ 𝙉𝙪𝙭𝙇-𝙈𝘿 ━━━
 
  𝙂𝙍𝙊𝙐𝙋 𝙈𝙀𝙉𝙐 
 •> fitnah
